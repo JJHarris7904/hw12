@@ -6,7 +6,7 @@ const config_localhost = {
     "host"    : "localhost",
     "port"    : 3306,
     "user"    : "root",
-    "password": "",
+    "password": "joshua2004",
     "database": "burgers_db"
 };
 
